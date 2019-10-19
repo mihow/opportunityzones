@@ -2,11 +2,20 @@
 
 ## notes
 
-- Lower limit: 0
-- Upper limit: 145,000
+```
+Lower limit: 0
+Upper limit: 145,000
 
-- "Download" refers to sending data _to_ the controller (a program script or settings)
-- "Upload" refers to retreiving data _from_ the controller (the already loaded program or settings)
+"Download" refers to sending data _to_ the controller (a program script or settings)
+"Upload" refers to retreiving data _from_ the controller (the already loaded program or settings)
+```
+
+Arcus motor controller:
+[PMX-2ED-SA](https://www.arcus-technology.com/products/multi-axis-motion-controller/2-axis-usb-controller-plus-driver/)
+
+Motors: [NEMA 17 stepper motor](https://www.arcus-technology.com/products/stepper-motors/nema-17/)
+
+Docs are saved in this repo.
 
 ## save program to motor controller
 - Connect the Arcus controller via USB
