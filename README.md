@@ -2,5 +2,5 @@
 
 ## moving shelf notes
 
-Bottom limit: 0
-Upper limit: 160,000
+- Lower limit: 0
+- Upper limit: 160,000
