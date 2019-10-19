@@ -39,3 +39,4 @@ Unplug the controller, plug it back in, the script should auto run. If the contr
 
 Do not unplug or power off the installation unless the motors are paused in the home position. The home position is marked on the motor rails.
 
+If the installation looses power when the shelf is not in the home position it must be moved by hand. Physically push the shelf down to the marked home position, then plug the installation back in.
