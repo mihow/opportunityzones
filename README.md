@@ -33,3 +33,9 @@ Paste the following commands in the "Terminal" field and press Enter/Return afte
 - `STORE` # Enter
 
 Unplug the controller, plug it back in, the script should auto run. If the controller is still connected to the computer via USB you will see the status of the program running (the current position and the line numbers of the script should be changing)
+
+
+## unplugging the shelf
+
+Do not unplug or power off the installation unless the motors are paused in the home position. The home position is marked on the motor tracks.
+
