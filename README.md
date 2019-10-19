@@ -37,5 +37,5 @@ Unplug the controller, plug it back in, the script should auto run. If the contr
 
 ## unplugging the shelf
 
-Do not unplug or power off the installation unless the motors are paused in the home position. The home position is marked on the motor tracks.
+Do not unplug or power off the installation unless the motors are paused in the home position. The home position is marked on the motor rails.
 
